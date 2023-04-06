@@ -8,6 +8,7 @@ public class UserDaoTest {
 		ConnectionMaker connectionMaker = new DConnectionMaker();
 		
 		//UserDao dao = new UserDao(ConnectionMaker);
+		//test
 	}
 	
 }
